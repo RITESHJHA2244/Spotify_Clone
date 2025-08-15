@@ -9,7 +9,7 @@ Live Demo
 
 🚀 Features
 
-Spotify-like landing page design
+Spotify-like landing page design(same as spotify home page)
 
 Responsive layout for desktop & mobile
 
