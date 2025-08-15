@@ -37,3 +37,4 @@ Assets (Images, Icons)
 📄 License
 
 This project is for educational purposes only and is not affiliated with Spotify.
+for live demo click here:https://riteshjha2244.github.io/Spotify_Clone/
